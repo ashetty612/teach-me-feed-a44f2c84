@@ -1,0 +1,21 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "Intro"
+  },
+  {
+   "startTime": 72.3,
+   "title": "Chapter 1: The message"
+  },
+  {
+   "startTime": 1199.5,
+   "title": "Chapter 2: The engineering"
+  },
+  {
+   "startTime": 1830.3,
+   "title": "Chapter 3: Immune response, evidence, frontier"
+  }
+ ]
+}

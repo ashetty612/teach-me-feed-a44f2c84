@@ -1,0 +1,25 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Cold open"
+  },
+  {
+   "startTime": 53.4,
+   "title": "Chapter 1: The message"
+  },
+  {
+   "startTime": 197.3,
+   "title": "Chapter 2: The engineering"
+  },
+  {
+   "startTime": 386.9,
+   "title": "Chapter 3: The immune response, evidence, and frontier"
+  },
+  {
+   "startTime": 533.5,
+   "title": "Recap and self-test"
+  }
+ ]
+}

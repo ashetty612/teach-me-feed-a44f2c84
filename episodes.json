@@ -1,0 +1,164 @@
+[
+ {
+  "id": "deep-dive--mrna-vaccines-2026-11-02",
+  "title": "Deep Dive \u00b7 How mRNA Vaccines Work",
+  "format": "Deep Dive",
+  "topic": "How mRNA Vaccines Work",
+  "date": "2026-11-02",
+  "file": "deep-dive--mrna-vaccines-2026-11-02.mp3",
+  "bytes": 25099537,
+  "mime": "audio/mpeg",
+  "seconds": 2092,
+  "summary": "mRNA vaccines deliver temporary genetic instructions that cells use to build antigens, priming robust immune responses. This platform allows for rapid redesign and has proven highly effective against diseases like COVID-19, with expanding applications.",
+  "key_points": [
+   "mRNA is a strictly temporary, cytoplasmic instruction that degrades quickly and cannot integrate into cellular DNA.",
+   "Manufacturing uses cell-free in vitro transcription (IVT), enabling rapid vaccine redesign (weeks) by simply swapping the DNA template.",
+   "Modified nucleosides like N1-methylpseudouridine (m1\u03a8) hide synthetic RNA from innate immune sensors and increase translation efficiency.",
+   "The 2P mutation chemically locks the viral antigen (e.g., spike protein) in its prefusion shape, ensuring the immune system targets the most effective conformation.",
+   "Lipid nanoparticles (LNPs) use ionizable lipids to safely deliver fragile mRNA into cells, changing charge to escape the acidic endosome and simultaneously acting as an inflammatory adjuvant.",
+   "The platform uniquely forces the cell to produce antigens internally, priming both CD8\u207a killer T-cells (via MHC class I) and CD4\u207a helper T-cells (via MHC class II).",
+   "Phase 3 trials showed ~95% efficacy against symptomatic COVID-19, though protection against mild infection wanes, while cellular immunity offers more durable protection against severe disease.",
+   "The technology frontier includes self-amplifying RNA for lower doses and personalized cancer vaccines targeting unique tumor neoantigens."
+  ],
+  "pearls": [
+   "mRNA vaccines cannot alter your DNA; the mRNA never enters the nucleus and human cells lack the machinery for reverse transcription or integration.",
+   "Lipid nanoparticles (LNPs) are not inert delivery vehicles; they are actively inflammatory adjuvants that contribute to local immune stimulation and common reactogenicity (sore arm, fever).",
+   "The term \"95% efficacy\" refers to a 95% relative risk reduction compared to an unvaccinated placebo group, not that 5% of vaccinated individuals will get sick.",
+   "The cell-free in vitro transcription (IVT) process significantly accelerates vaccine development and redesign, allowing for rapid adaptation to new pathogens or variants.",
+   "Dual antigen presentation by MHC class I and II molecules means mRNA vaccines stimulate both killer T-cells and helper T-cells, providing a robust and comprehensive immune response."
+  ],
+  "quiz": [
+   {
+    "q": "Name the five parts of a mature mRNA.",
+    "a": "A mature mRNA has a 5\u2032 cap, a 5\u2032 untranslated region (UTR), the coding sequence (open reading frame), a 3\u2032 UTR, and a poly(A) tail."
+   },
+   {
+    "q": "Why is the lipid 'ionizable' rather than permanently charged?",
+    "a": "At acidic pH during mixing, the ionizable lipid is positively charged and binds RNA; at body pH it is near-neutral (less toxic); inside the acidic endosome it becomes charged again and helps disrupt the membrane, releasing RNA into the cytoplasm."
+   },
+   {
+    "q": "Interpret '95% efficacy.'",
+    "a": "It means a 95% relative risk reduction versus placebo during the trial window, not that 5% of vaccinated people got sick."
+   }
+  ],
+  "sources": [
+   {
+    "title": "Pardi N, Hogan MJ, Porter FW, Weissman D. mRNA vaccines \u2014 a new era in vaccinology. *Nat Rev Drug Discov* 2018;17:261\u2013279",
+    "url": "https://www.nature.com/articles/nrd.2017.243"
+   },
+   {
+    "title": "Karik\u00f3 K et al. Suppression of RNA recognition by Toll-like receptors\u2026 *Immunity* 2005;23:165\u2013175",
+    "url": "https://doi.org/10.1016/j.immuni.2005.06.008"
+   },
+   {
+    "title": "Corbett KS et al. SARS\u2011CoV\u20112 mRNA vaccine design enabled by prototype pathogen preparedness. *Nature* 2020;586:567\u2013571",
+    "url": "https://www.nature.com/articles/s41586-020-2622-0"
+   },
+   {
+    "title": "Nobel Prize in Physiology or Medicine 2023, press release",
+    "url": "https://www.nobelprize.org/prizes/medicine/2023/press-release/"
+   },
+   {
+    "title": "CDC. Understanding How COVID\u201119 Vaccines Work / Myths and Facts",
+    "url": "https://www.cdc.gov/covid/vaccines/how-they-work.html"
+   },
+   {
+    "title": "Polack FP et al. Safety and efficacy of the BNT162b2 mRNA Covid\u201119 vaccine. *NEJM* 2020;383:2603\u20132615",
+    "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2034577"
+   },
+   {
+    "title": "Baden LR et al. Efficacy and safety of the mRNA\u20111273 SARS\u2011CoV\u20112 vaccine. *NEJM* 2021;384:403\u2013416",
+    "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2035389"
+   },
+   {
+    "title": "Oster ME et al. Myocarditis cases reported after mRNA-based COVID\u201119 vaccination in the US. *JAMA* 2022;327:331\u2013340",
+    "url": "https://jamanetwork.com/journals/jama/fullarticle/2788346"
+   },
+   {
+    "title": "Weber JS et al. Individualised neoantigen therapy mRNA\u20114157 plus pembrolizumab in melanoma (KEYNOTE\u2011942). *Lancet* 2024;403:632\u2013644",
+    "url": "https://doi.org/10.1016/S0140-6736(23)02268-7"
+   }
+  ]
+ },
+ {
+  "id": "pearls-10--mrna-vaccines-2026-11-02",
+  "title": "Pearls in 10 \u00b7 How mRNA Vaccines Work",
+  "format": "Pearls in 10",
+  "topic": "How mRNA Vaccines Work",
+  "date": "2026-11-02",
+  "file": "pearls-10--mrna-vaccines-2026-11-02.mp3",
+  "bytes": 7181431,
+  "mime": "audio/mpeg",
+  "seconds": 598,
+  "summary": "mRNA vaccines deliver genetic instructions (mRNA) to cells, prompting them to produce specific antigens, which then trigger an immune response. This cell-free manufacturing process allows for rapid vaccine development and quick adaptation to new variants by simply changing the genetic sequence.",
+  "key_points": [
+   "mRNA delivers temporary genetic instructions to cells, which then produce antigens for immune training.",
+   "Manufacturing uses cell-free in vitro transcription (IVT) for rapid design and production, allowing quick adaptation by only swapping the sequence.",
+   "The mRNA cannot alter cellular DNA as it remains in the cytoplasm, is not reverse-transcribed, and degrades within days.",
+   "Modified nucleosides (e.g., N1-methylpseudouridine) prevent innate immune detection of foreign RNA and improve its translation efficiency.",
+   "Lipid nanoparticles (LNPs) encapsulate the mRNA, delivering it into cells where an ionizable lipid facilitates mRNA escape from acidic endosomes.",
+   "Antigen design, such as two proline substitutions ('2P') in the spike protein, stabilizes the target in its pre-fusion shape for optimal antibody recognition.",
+   "mRNA vaccines stimulate both antibody production (via MHC class II and CD4+ T cells) and CD8+ killer T-cell responses (via MHC class I).",
+   "Initial trials demonstrated approximately 95% relative risk reduction against symptomatic COVID-19, though protection against infection waned over time and with new variants."
+  ],
+  "pearls": [
+   "mRNA vaccines do not alter your DNA; the mRNA remains in the cytoplasm, is not reverse-transcribed, and degrades within days.",
+   "\"95% efficacy\" refers to a 95% relative risk reduction in symptomatic cases compared to a placebo group, not that 5% of vaccinated individuals will get sick.",
+   "Lipid nanoparticles (LNPs) not only deliver mRNA but also act as an adjuvant, contributing to common vaccine side effects like sore arm and fever.",
+   "Protection against severe disease from mRNA vaccines generally holds up better than protection against infection, especially with new variants, necessitating updated boosters.",
+   "A rare but notable risk of mRNA vaccination is myocarditis, particularly in young males after the second dose."
+  ],
+  "quiz": [
+   {
+    "q": "Why do mRNA vaccines prime CD8 killer T cells when many protein vaccines don't?",
+    "a": "The protein is made inside your cells, so fragments get displayed on MHC class one molecules, which trains CD8 killer T cells."
+   },
+   {
+    "q": "What does \"ninety-five percent efficacy\" actually mean?",
+    "a": "It means a ninety-five percent relative reduction in symptomatic cases versus a placebo group during the trial window."
+   },
+   {
+    "q": "Why is the lipid ionizable instead of permanently charged?",
+    "a": "It allows the lipid to be positive in acidic conditions (for packing RNA and escaping the endosome) but near-neutral at the body's neutral pH for reduced toxicity."
+   }
+  ],
+  "sources": [
+   {
+    "title": "Pardi N, Hogan MJ, Porter FW, Weissman D. mRNA vaccines \u2014 a new era in vaccinology. *Nat Rev Drug Discov* 2018;17:261\u2013279",
+    "url": "https://www.nature.com/articles/nrd.2017.243"
+   },
+   {
+    "title": "Karik\u00f3 K et al. Suppression of RNA recognition by Toll-like receptors\u2026 *Immunity* 2005;23:165\u2013175",
+    "url": "https://doi.org/10.1016/j.immuni.2005.06.008"
+   },
+   {
+    "title": "Corbett KS et al. SARS\u2011CoV\u20112 mRNA vaccine design enabled by prototype pathogen preparedness. *Nature* 2020;586:567\u2013571",
+    "url": "https://www.nature.com/articles/s41586-020-2622-0"
+   },
+   {
+    "title": "Nobel Prize in Physiology or Medicine 2023, press release",
+    "url": "https://www.nobelprize.org/prizes/medicine/2023/press-release/"
+   },
+   {
+    "title": "CDC. Understanding How COVID\u201119 Vaccines Work / Myths and Facts",
+    "url": "https://www.cdc.gov/covid/vaccines/how-they-work.html"
+   },
+   {
+    "title": "Polack FP et al. Safety and efficacy of the BNT162b2 mRNA Covid\u201119 vaccine. *NEJM* 2020;383:2603\u20132615",
+    "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2034577"
+   },
+   {
+    "title": "Baden LR et al. Efficacy and safety of the mRNA\u20111273 SARS\u2011CoV\u20112 vaccine. *NEJM* 2021;384:403\u2013416",
+    "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2035389"
+   },
+   {
+    "title": "Oster ME et al. Myocarditis cases reported after mRNA-based COVID\u201119 vaccination in the US. *JAMA* 2022;327:331\u2013340",
+    "url": "https://jamanetwork.com/journals/jama/fullarticle/2788346"
+   },
+   {
+    "title": "Weber JS et al. Individualised neoantigen therapy mRNA\u20114157 plus pembrolizumab in melanoma (KEYNOTE\u2011942). *Lancet* 2024;403:632\u2013644",
+    "url": "https://doi.org/10.1016/S0140-6736(23)02268-7"
+   }
+  ]
+ }
+]
