@@ -1,0 +1,33 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Cold open"
+  },
+  {
+   "startTime": 37.2,
+   "title": "Pearl 1: Know your currency"
+  },
+  {
+   "startTime": 106.6,
+   "title": "Pearl 2: The one formula"
+  },
+  {
+   "startTime": 175.1,
+   "title": "Pearl 3: The two corrections"
+  },
+  {
+   "startTime": 234.0,
+   "title": "Pearl 4: Sweet spots and transfer bonuses"
+  },
+  {
+   "startTime": 292.8,
+   "title": "Pearl 5: When cash wins"
+  },
+  {
+   "startTime": 324.5,
+   "title": "Recap and quiz"
+  }
+ ]
+}

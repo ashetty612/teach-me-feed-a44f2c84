@@ -160,5 +160,62 @@
     "url": "https://doi.org/10.1016/S0140-6736(23)02268-7"
    }
   ]
+ },
+ {
+  "id": "pearls-10--points-pearls-2026-11-02",
+  "title": "Pearls in 10 \u00b7 Points Pearls: Transfer Partners, Sweet Spots and When Cash Beats Points",
+  "format": "Pearls in 10",
+  "topic": "Points Pearls: Transfer Partners, Sweet Spots and When Cash Beats Points",
+  "date": "2026-11-02",
+  "file": "pearls-10--points-pearls-2026-11-02.mp3",
+  "bytes": 4509320,
+  "mime": "audio/mpeg",
+  "seconds": 376,
+  "summary": "This episode teaches how to quickly evaluate points redemptions, emphasizing the importance of understanding different point currencies and using a core valuation formula. It covers crucial corrections like opportunity cost and true cash value, while also exploring strategies like sweet spots, transfer bonuses, and knowing when paying cash is the superior choice.",
+  "key_points": [
+   "Flexible points from bank programs are the most valuable due to their versatility.",
+   "The core formula for valuing redemptions is cents per point (cpp) = (cash price - taxes/fees) \u00f7 points required \u00d7 100.",
+   "A redemption below 1 cent per point (the cash-out floor) destroys value.",
+   "Sharp travelers account for opportunity cost (lost miles/elite credit) and the cash price they would genuinely pay.",
+   "Sweet spots arise from partner award charts where one airline charges fewer miles for an alliance partner's flight.",
+   "Transfer bonuses should only be utilized for awards you have already found.",
+   "Cash wins when fares are cheap, the cpp is near or below 1.2 cents, or the award offers a poor schedule.",
+   "Always hold flexible points until a specific award is found, then price the cash alternative before transferring."
+  ],
+  "pearls": [
+   "Treat flexible points like uninvested cash; only transfer them to airline or hotel partners when you have a specific award in hand to avoid devaluation risk and one-way transfers.",
+   "Always calculate the cents per point (cpp) for a redemption, using the formula: (cash price - award taxes/fees) / points required * 100, ensuring the value is comfortably above the 1 cent per point baseline.",
+   "When evaluating a redemption, correct for opportunity cost (the miles/elite credit you forego) and be honest about the 'cash price you would really pay' for that specific seat or room, not just its sticker price.",
+   "Seek out sweet spots in partner award charts and only stack transfer bonuses on awards you have already identified, as a bonus on unused points is worthless.",
+   "Recognize when cash simply wins; pay cash for cheap fares (especially domestic economy sales) or when the redemption value is low (e.g., < 1.2 cpp), saving your valuable points for higher-value redemptions."
+  ],
+  "quiz": [
+   {
+    "q": "Why shouldn't you transfer points before finding an award?",
+    "a": "Transfers are usually one-way and can't be undone, exposing points to devaluation risk once in an airline program."
+   },
+   {
+    "q": "A seven-hundred-dollar fare, or thirty-five thousand points plus a hundred dollars in fees. What's the cents per point?",
+    "a": "1.7 cents per point. Calculation: ($700 - $100) / 35,000 * 100 = 1.7."
+   },
+   {
+    "q": "When is a transfer bonus worth taking?",
+    "a": "Only when it is stacked on an award you have already found."
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Points Guy \u2014 monthly points valuations",
+    "url": "https://thepointsguy.com/guide/monthly-valuations/"
+   },
+   {
+    "title": "NerdWallet \u2014 airline miles and hotel points valuations",
+    "url": "https://www.nerdwallet.com/article/travel/airline-miles-and-hotel-points-valuations"
+   },
+   {
+    "title": "The Points Guy \u2014 transferable points explained",
+    "url": "https://thepointsguy.com/loyalty-programs/transferable-points/"
+   }
+  ]
  }
 ]
