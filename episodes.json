@@ -217,5 +217,98 @@
     "url": "https://thepointsguy.com/loyalty-programs/transferable-points/"
    }
   ]
+ },
+ {
+  "id": "deep-dive--painless-vision-loss-differential-2026-11-08",
+  "title": "Deep Dive \u00b7 Ophtho Grand Rounds: The Painless Vision Loss Differential (CRAO, NAION, GCA, retinal detachment)",
+  "format": "Deep Dive",
+  "topic": "Ophtho Grand Rounds: The Painless Vision Loss Differential (CRAO, NAION, GCA, retinal detachment)",
+  "date": "2026-11-08",
+  "file": "deep-dive--painless-vision-loss-differential-2026-11-08.mp3",
+  "bytes": 25586982,
+  "mime": "audio/mpeg",
+  "seconds": 2132,
+  "summary": "Painless monocular vision loss presents a critical diagnostic challenge, where the absence of pain belies the extreme urgency of underlying conditions. This episode provides a systematic framework to quickly differentiate central retinal artery occlusion, non-arteritic anterior ischemic optic neuropathy, arteritic AION from Giant Cell Arteritis, and rhegmatogenous retinal detachment, each demanding a specific and timely intervention pathway.",
+  "key_points": [
+   "Painless monocular vision loss is a surgical, stroke, or steroid emergency; \"painless does not mean elective.\"",
+   "Central Retinal Artery Occlusion (CRAO) is an eye stroke, diagnosed by inner-retinal whitening and cherry-red spot, requiring immediate ED transfer for stroke workup.",
+   "Experimental retinal tolerance to CRAO ischemia is 97 to 240 minutes, with only 17.7% functional recovery untreated.",
+   "Non-arteritic Anterior Ischemic Optic Neuropathy (NAION) involves sectoral disc edema in a \"disc at risk,\" with IONDT proving optic nerve sheath decompression ineffective; fellow eye risk is 14.7% over ~5 years.",
+   "Arteritic AION from Giant Cell Arteritis (GCA) presents with chalky-white disc swelling and systemic symptoms; immediate high-dose steroids are critical, as ~4% of biopsy-proven cases have normal ESR/CRP.",
+   "Rhegmatogenous Retinal Detachment (RRD) involves flashes, floaters, and a \"curtain\"; macula-on RRD is a same-day surgical emergency.",
+   "The initial 60-second sort (RAPD, fundus exam) dictates the entire clinical outcome, routing patients to stroke, steroid, or surgical pathways.",
+   "Equating the time of discovery with the time of onset is a major diagnostic pitfall, as patients are notoriously poor at recognizing monocular visual deficits."
+  ],
+  "pearls": [
+   "Eye stroke uses the same door as brain stroke \u2014 the emergency department, not tomorrow\u2019s opening.",
+   "Crowded fellow disc plus altitudinal field plus morning discovery, after you have ruled out GCA, is NAION \u2014 and the sheath does not get opened.",
+   "Steroids first, biopsy second. The biopsy justifies the taper, not the first dose.",
+   "Flashes, floaters, curtain \u2014 and the macula tells you how many hours you have, not whether you have a problem.",
+   "The four cases are one skill: matching anatomy to a clock."
+  ],
+  "quiz": [
+   {
+    "q": "Why can a macula on superior RRD present with 20/20 acuity and little or no RAPD?",
+    "a": "Central vision, fovea, is intact and a localized superior detachment may not disrupt enough total retinal nerve fiber layer to produce a strong RAPD."
+   },
+   {
+    "q": "What three fundus patterns separate CRAO, anterior ischemic optic neuropathy, and RRD?",
+    "a": "CRAO is a cherry red spot and retinal whitening. AION is a swollen optic disc. RRD is detached retinal tissue or mobile retina."
+   },
+   {
+    "q": "A patient over 50 with disc edema and jaw claudication is in which pathway? Even if the sedimentation rate is still pending.",
+    "a": "The steroid pathway for GCA."
+   }
+  ],
+  "sources": [
+   {
+    "title": "Mac Grory B et al. Management of Central Retinal Artery Occlusion: A Scientific Statement From the American Heart Association. Stroke. 2021;52:e282\u2013e294",
+    "url": "https://www.ahajournals.org/doi/full/10.1161/STR.0000000000000366"
+   },
+   {
+    "title": "American Heart Association newsroom summary of the 2021 CRAO statement",
+    "url": "https://newsroom.heart.org/news/stroke-affecting-the-eye-requires-immediate-treatment-can-signal-future-vascular-events"
+   },
+   {
+    "title": "Hayreh SS. Acute retinal arterial occlusive disorders. Prog Retin Eye Res. 2011",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3137709/"
+   },
+   {
+    "title": "Hayreh SS. Central retinal artery occlusion. Indian J Ophthalmol. 2018",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6256872/"
+   },
+   {
+    "title": "Dickersin K et al. Surgery for nonarteritic anterior ischemic optic neuropathy (Cochrane review of IONDT)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4439207/"
+   },
+   {
+    "title": "Berry S et al. Nonarteritic anterior ischemic optic neuropathy: cause, effect, and management. Eye Brain. 2017",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5628702/"
+   },
+   {
+    "title": "Mazumder et al. / IONDT 24-month update. Arch Ophthalmol / JAMA Ophthalmology",
+    "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/413259"
+   },
+   {
+    "title": "Newman NJ et al. The fellow eye in NAION: IONDT follow-up. Am J Ophthalmol. 2002",
+    "url": "https://www.ajo.com/article/S0002-9394(02)01639-2/abstract"
+   },
+   {
+    "title": "Maz M et al. 2021 ACR/Vasculitis Foundation Guideline for the Management of Giant Cell Arteritis and Takayasu Arteritis",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12344528/"
+   },
+   {
+    "title": "van der Geest KSM et al. Diagnostic Accuracy of Symptoms, Physical Signs, and Laboratory Tests for Giant Cell Arteritis. JAMA Netw Open. 2020",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7432275/"
+   },
+   {
+    "title": "Kermani TA et al. Utility of ESR and CRP for the Diagnosis of Giant Cell Arteritis. Semin Arthritis Rheum. 2012",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3307891/"
+   },
+   {
+    "title": "Ameer MA et al. Giant Cell Arteritis (Temporal Arteritis). StatPearls",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK459376/"
+   }
+  ]
  }
 ]
