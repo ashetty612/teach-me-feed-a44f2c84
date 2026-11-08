@@ -1,0 +1,33 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Cold open"
+  },
+  {
+   "startTime": 76.7,
+   "title": "Chapter 1: The sixty-second sort"
+  },
+  {
+   "startTime": 212.9,
+   "title": "Chapter 2: Case 1, C R A O"
+  },
+  {
+   "startTime": 478.0,
+   "title": "Chapter 3: Case 2, nay-on"
+  },
+  {
+   "startTime": 709.2,
+   "title": "Chapter 4: Case 3, giant cell arteritis"
+  },
+  {
+   "startTime": 927.3,
+   "title": "Chapter 5: Case 4, the curtain"
+  },
+  {
+   "startTime": 1124.3,
+   "title": "Chapter 6: Four clocks and a quiz"
+  }
+ ]
+}

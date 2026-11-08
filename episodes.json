@@ -219,6 +219,98 @@
   ]
  },
  {
+  "id": "case-rounds--painless-vision-loss-differential-2026-11-08",
+  "title": "Case Rounds \u00b7 Ophtho Grand Rounds: The Painless Vision Loss Differential (CRAO, NAION, GCA, retinal detachment)",
+  "format": "Case Rounds",
+  "topic": "Ophtho Grand Rounds: The Painless Vision Loss Differential (CRAO, NAION, GCA, retinal detachment)",
+  "date": "2026-11-08",
+  "file": "case-rounds--painless-vision-loss-differential-2026-11-08.mp3",
+  "bytes": 15663814,
+  "mime": "audio/mpeg",
+  "seconds": 1305,
+  "summary": "Sudden painless monocular vision loss signals several ophthalmic emergencies, each with a distinct timeline for intervention. These conditions\u2014Central Retinal Artery Occlusion (CRAO), Non-Arteritic Anterior Ischemic Optic Neuropathy (NAION), Giant Cell Arteritis (GCA), and rhegmatogenous retinal detachment (RRD)\u2014require rapid, distinct clinical responses as their timing can critically impact visual outcomes.",
+  "key_points": [
+   "Painless monocular vision loss is never elective and requires immediate evaluation, confirming monocularity, checking for RAPD, and examining the fundus.",
+   "Central Retinal Artery Occlusion (CRAO) is an acute ischemic stroke that requires immediate transfer to an emergency department for a comprehensive stroke evaluation.",
+   "Non-Arteritic Anterior Ischemic Optic Neuropathy (NAION) is diagnosed after ruling out Giant Cell Arteritis (GCA) and is characterized by disc edema, often an altitudinal field defect, and a 'disc at risk' in the fellow eye; optic nerve sheath decompression offers no benefit.",
+   "Suspected Giant Cell Arteritis (GCA) necessitates immediate high-dose glucocorticoid treatment, even before temporal artery biopsy, to protect the fellow eye from vision loss.",
+   "Approximately 4% of biopsy-proven GCA cases can present with both normal erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) levels, meaning normal labs do not rule out the diagnosis.",
+   "Rhegmatogenous retinal detachment (RRD), especially macula-on cases or those involving superior bullous detachments near the arcade, is a surgical emergency requiring same-day referral to retina, regardless of initial preserved acuity.",
+   "Conservative maneuvers for CRAO (e.g., ocular massage, anterior chamber paracentesis) lack compelling evidence of benefit and should not delay emergency department transfer."
+  ],
+  "pearls": [
+   "Painless is not elective. Confirm it is monocular, check for an RAPD, and look at disc, inner retina, and vitreous before you assign a clock.",
+   "Eye stroke uses the same door as brain stroke, the emergency department, not tomorrow's opening.",
+   "Crowded fellow disc, altitudinal field, morning discovery, after you have ruled out giant cell arteritis, is NAION, and the sheath does not get opened.",
+   "Steroids first, biopsy second. The biopsy justifies the taper, not the first dose; treat the second eye tonight.",
+   "Flashes, floaters, curtain\u2014the macula tells you how many hours you have, not whether you have a problem."
+  ],
+  "quiz": [
+   {
+    "q": "A man has sudden painless count-fingers vision, a dense RAPD, a cherry-red spot, and a normal disc. What door does he use, and why?",
+    "a": "The emergency department, because CRAO with retinal infarction is a form of acute ischemic stroke, and clinic is not the place to run that pathway."
+   },
+   {
+    "q": "Why start high-dose steroids for suspected giant cell arteritis before the temporal artery biopsy comes back?",
+    "a": "Steroids protect the fellow eye now. The biopsy confirms the diagnosis and justifies the taper. About four percent of biopsy-proven disease has normal inflammatory markers, so the labs are not a veto."
+   },
+   {
+    "q": "Visual acuity is twenty twenty-five, there is a superior curtain, and optical coherence tomography shows an attached fovea. What do you tell the patient about timing?",
+    "a": "This is a same-day call to retina. The sources suggest a possible advantage to repairing macula-on detachments within twenty-four hours, and they do not give you permission to wait because the acuity still looks good."
+   }
+  ],
+  "sources": [
+   {
+    "title": "Mac Grory B et al. Management of Central Retinal Artery Occlusion: A Scientific Statement From the American Heart Association. Stroke. 2021;52:e282\u2013e294",
+    "url": "https://www.ahajournals.org/doi/full/10.1161/STR.0000000000000366"
+   },
+   {
+    "title": "American Heart Association newsroom summary of the 2021 CRAO statement",
+    "url": "https://newsroom.heart.org/news/stroke-affecting-the-eye-requires-immediate-treatment-can-signal-future-vascular-events"
+   },
+   {
+    "title": "Hayreh SS. Acute retinal arterial occlusive disorders. Prog Retin Eye Res. 2011",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3137709/"
+   },
+   {
+    "title": "Hayreh SS. Central retinal artery occlusion. Indian J Ophthalmol. 2018",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6256872/"
+   },
+   {
+    "title": "Dickersin K et al. Surgery for nonarteritic anterior ischemic optic neuropathy (Cochrane review of IONDT)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4439207/"
+   },
+   {
+    "title": "Berry S et al. Nonarteritic anterior ischemic optic neuropathy: cause, effect, and management. Eye Brain. 2017",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5628702/"
+   },
+   {
+    "title": "Mazumder et al. / IONDT 24-month update. Arch Ophthalmol / JAMA Ophthalmology",
+    "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/413259"
+   },
+   {
+    "title": "Newman NJ et al. The fellow eye in NAION: IONDT follow-up. Am J Ophthalmol. 2002",
+    "url": "https://www.ajo.com/article/S0002-9394(02)01639-2/abstract"
+   },
+   {
+    "title": "Maz M et al. 2021 ACR/Vasculitis Foundation Guideline for the Management of Giant Cell Arteritis and Takayasu Arteritis",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12344528/"
+   },
+   {
+    "title": "van der Geest KSM et al. Diagnostic Accuracy of Symptoms, Physical Signs, and Laboratory Tests for Giant Cell Arteritis. JAMA Netw Open. 2020",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7432275/"
+   },
+   {
+    "title": "Kermani TA et al. Utility of ESR and CRP for the Diagnosis of Giant Cell Arteritis. Semin Arthritis Rheum. 2012",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3307891/"
+   },
+   {
+    "title": "Ameer MA et al. Giant Cell Arteritis (Temporal Arteritis). StatPearls",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK459376/"
+   }
+  ]
+ },
+ {
   "id": "deep-dive--painless-vision-loss-differential-2026-11-08",
   "title": "Deep Dive \u00b7 Ophtho Grand Rounds: The Painless Vision Loss Differential (CRAO, NAION, GCA, retinal detachment)",
   "format": "Deep Dive",

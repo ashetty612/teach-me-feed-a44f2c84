@@ -1,0 +1,131 @@
+# Cold open
+Theo: Maya, a sixty-eight-year-old man tells the technician his right vision just went out while he was watching television. No pain. No redness. He drove himself here and he wants a refraction.
+Maya: That sentence should change the temperature of the room. Painless monocular vision loss is how central retinal artery occlusion, nay-on, giant cell arteritis, and retinal detachment all walk into clinic.
+Theo: Four diagnoses, four clocks, and none of them care that he is already in your chair.
+Maya: Today is Case Rounds. I will present four cases in stages. You reason out loud. We will pause before each reveal, and we will end with a three-question quiz.
+Theo: Roadmap. Chapter one is the sixty-second sort: pupils and the first look at the fundus. Two is C R A O, an eye stroke. Three is nay-on and the disc at risk.
+Maya: Four is giant cell arteritis and the fellow-eye emergency. Five is the curtain of a rhegmatogenous detachment. Six puts the four clocks on one card.
+Theo: Last week, in Points Pearls, the rule was do not transfer points until you have the seat. I have a feeling today's version is do not wait for a test before you start the treatment that saves the other eye.
+Maya: Keep that. You will need it in chapter four.
+# Chapter 1: The sixty-second sort
+Maya: Case one, first slice only. Sixty-eight, sudden loss, two hours ago, no pain. Visual acuity is count fingers at two feet in the right eye and twenty twenty in the left. There is a dense right relative afferent pupillary defect.
+Theo: So the good eye is fine, and the right afferent circuit is not talking to the midbrain. That is not a refractive surprise and it is not a mild cataract.
+Maya: Correct. Media can blur vision, but they rarely make a dense R A P D. You are looking at inner retina or optic nerve until the fundus proves otherwise.
+Theo: Pause and predict. Before we dilate, which three questions sort this room? Take a few seconds. Pause here.
+Maya: One: is the loss truly monocular? Cover the good eye; do not trust the story alone. Two: is there an R A P D? Three: what does the disc, the inner retina, and the vitreous look like?
+Theo: And the clock comes from that third look, plus his age and a review of systems for headache and jaw pain.
+Maya: Yes. A white inner retina with a cherry-red spot is the stroke pathway. A swollen disc is nay-on versus arteritic A I O N. Tobacco dust and a mobile retina are a surgical clock.
+Theo: Push-back time. If it does not hurt, why can't this wait until tomorrow's opening? Pain is how we decide urgency everywhere else in the anterior segment.
+Maya: Pain points you toward cornea, angle closure, scleritis, and optic neuritis. Its absence does not make tissue elective. Ischemic retina, an infarcting disc, and a macula that is about to detach do not hurt the way a scratch does.
+Theo: So the analogy is a circuit breaker. The pupil tells you a breaker tripped. The fundus tells you whether the wiring burned, the transformer overheated, or a cable pulled off the wall.
+Maya: That is a fair analogy, and here is where it breaks. Early C R A O can look deceptively quiet for a few minutes, and giant cell arteritis can infarct the disc and the retina together. You still have to look.
+Theo: Pearl, then: painless is not elective. Confirm it is monocular, check for an R A P D, and look at disc, inner retina, and vitreous before you assign a clock.
+Maya: Memory hook: cover, pupils, fundus, clock. Next we open the eyelids on case one.
+# Chapter 2: Case 1, C R A O
+Maya: We dilate. The right arteries are attenuated. There is boxcarring of the blood column, whitening of the posterior pole, and a cherry-red spot at the fovea. The disc is not swollen. The left fundus is normal.
+Theo: Inner retina is opaque, fovea is still red, disc is quiet. That is central retinal artery occlusion, not a detached retina and not disc edema.
+Maya: Mechanism, said once. The central retinal artery, a branch of the ophthalmic artery and therefore of the internal carotid, feeds the inner retina: nerve-fiber layer, ganglion cells, inner plexiform layer.
+Theo: And the outer retina, including the photoreceptors, lives on choroidal blood from the posterior ciliary arteries. That is why the fovea, which has no inner retina, stays red against a white background.
+Maya: Exactly. A spared cilioretinal artery comes from that posterior ciliary circulation, not from the central retinal artery, so central acuity can look surprisingly good while the field is destroyed.
+Theo: Pause and predict. Is this an eye problem that can follow up next week, or something else? Pause here.
+Maya: It is a form of acute ischemic stroke. That is the language of the twenty twenty-one American Heart Association scientific statement, which the American Academy of Ophthalmology Quality of Care Secretariat endorsed.
+Theo: How common, and how bad?
+Maya: Population studies put the incidence at about one point eight to two point five per one hundred thousand person-years. One point nine in the United States, one point eight in South Korea, two point five in Japan.
+Theo: And recovery?
+Maya: More than eighty percent present with count-fingers vision or worse, unless a cilioretinal artery is spared. In a meta-analysis of three hundred ninety-six untreated patients, only seventeen point seven percent, seventy of three hundred ninety-six, improved from twenty two hundred or worse to twenty one hundred or better.
+Theo: So when he asks whether it will come back, the honest number is about one in six for functional acuity, not never and not probably.
+Maya: Yes. And there is animal physiology you should know by name. Hayreh clamped the central retinal artery in elderly, atherosclerotic, hypertensive rhesus monkeys.
+Theo: The closest model to the people we actually see.
+Maya: After ninety-seven minutes there was no detectable permanent retinal damage. By about two hundred forty minutes the damage was massive and irreversible. That is experimental, not a human consent form, but it is why tomorrow morning has no scientific rationale.
+Theo: Push-back time. I can lower the eye pressure, massage the globe, even tap the anterior chamber in the lane. Shouldn't I try that before I send him across town?
+Maya: The sources do not settle a helpful in-office cocktail. The Heart Association statement says those conservative maneuvers lack compelling evidence of benefit.
+Theo: I have seen papers quoting recovery after massage or a paracentesis.
+Maya: The same observational literature the statement cites reported about seven point four percent recovery after conservative combinations versus seventeen point seven percent natural history. That is a possible harm signal, not a reason to delay the emergency-department door.
+Theo: What about T P A? Every stroke talk I hear uses four and a half hours.
+Maya: The sources do not settle that either. A patient-level meta-analysis of observational series found a fifty percent recovery rate when any lytic drug was given within four and a half hours.
+Maya: The Heart Association still calls that equipoise, pending randomized trials. Your job in clinic is not to infuse alteplase. It is to confirm the fundus, exclude hemorrhage and detachment, draw giant cell arteritis labs if he is over fifty, and send him to an emergency department now.
+Theo: Visible embolus?
+Maya: You often will not see one. The central retinal artery is mostly retrobulbar. The diagnosis is the story, the pupil, and inner-retinal ischemia.
+Theo: Pearl: eye stroke uses the same door as brain stroke, the emergency department, not tomorrow's opening.
+Maya: Memory hook: white retina, red fovea, normal disc. Do not let him drive himself home.
+Theo: And the callback from last week still holds in a different key. Do not wait to transfer him until a carotid ultrasound is on the books. You already have the seat. The seat is the emergency department.
+# Chapter 3: Case 2, nay-on
+Maya: New patient. Sixty-two, hypertension, diabetes, untreated sleep apnea. He noticed a gray shade over the lower half of the left vision when he woke up. It has been six hours and it is not changing.
+Theo: Waking up with an altitudinal shade makes me think optic nerve more than artery or detachment, but I want the exam.
+Maya: Visual acuity is twenty sixty. There is a left R A P D. The left disc is swollen and slightly hyperemic, more superiorly, with a few flame hemorrhages. The right disc is small and crowded, almost no cup. The field is a dense inferior altitudinal defect.
+Theo: Sectoral disc edema in the acute eye, disc at risk in the fellow eye, morning discovery, altitudinal field. That is non-arteritic anterior ischemic optic neuropathy, nay-on, if giant cell arteritis is not hiding in the history.
+Maya: Say the mechanism once. The optic nerve head is a tight space. In a small scleral canal, transient hypoperfusion produces edema, and the edema then raises local pressure and worsens ischemia.
+Theo: Like a swollen ankle in a tight ski boot.
+Maya: Useful, and here is where it breaks. We do not have a proven single trigger in each patient. Nocturnal hypotension and sleep apnea are usual suspects, not events we document at the bedside.
+Theo: Pause and predict. He is over fifty with a swollen disc. What must you do before you comfort him with the words garden-variety nay-on? Pause here.
+Maya: Take giant cell arteritis seriously. Ask about new headache, jaw claudication, scalp tenderness, polymyalgia, fever, and weight loss, and check sedimentation rate, C-reactive protein, and platelets.
+Theo: The arteritic disc is more often chalky white and the vision more often devastating, but overlap exists. A generous cup in the fellow eye should also make me less smug about ordinary nay-on.
+Maya: Precisely. Nay-on is the diagnosis you make after that screen, not instead of it.
+Theo: Push-back time. If this is a compartment syndrome, why don't we unroof the nerve? That is what you do to a tight space.
+Maya: That is exactly what the Ischemic Optic Neuropathy Decompression Trial tested. People with nay-on and acuity of twenty sixty-four or worse were randomized to optic nerve sheath decompression versus careful follow-up.
+Theo: And?
+Maya: Surgery did not help and may have been harmful. At six months, thirty-two point zero percent of the surgery group and forty-two point six percent of the follow-up group had gained three or more lines.
+Theo: So the observed patients did better, or at least no worse.
+Maya: At twenty-four months it was twenty-nine point four percent versus thirty-one point zero percent. About thirty-one percent of observed patients improved by three lines on their own by two years. An anecdote after an injection is not evidence the injection worked.
+Theo: What do I tell him about the other eye?
+Maya: Among trial patients at risk, new fellow-eye nay-on occurred in fourteen point seven percent, forty-eight of three hundred twenty-six, over a median of about five point one years.
+Theo: That is lower than some of the older teaching I memorized.
+Maya: It is. Diabetes and study-eye acuity of twenty two hundred or worse were associated with higher fellow-eye risk. Age, sex, smoking, and aspirin were not, in that analysis. Send him for sleep apnea care, and do not over-treat his nocturnal blood pressure without a reason.
+Theo: Pearl: crowded fellow disc, altitudinal field, morning discovery, after you have ruled out giant cell arteritis, is nay-on, and the sheath does not get opened.
+Maya: Memory hook: small cup, big problem, no scalpel.
+# Chapter 4: Case 3, giant cell arteritis
+Maya: Seventy-six-year-old woman. She lost the right vision this morning. For three weeks, a new temporal headache, pain when she chews a bagel, and scalp tenderness under the hairbrush. Acuity is hand motion. Dense R A P D. The right disc is swollen and chalky pale. The left disc has a healthy cup.
+Theo: That is not a disc at risk, and that is not a hyperemic garden-variety swelling. Jaw claudication plus a pale infarcting disc is arteritic A I O N until proven otherwise.
+Maya: Giant cell arteritis is a granulomatous vasculitis of medium and large extracranial arteries, including the posterior ciliary arteries that feed the optic nerve head. When they occlude, the disc infarcts, often more severely than in nay-on, and the fellow eye is on a short fuse.
+Theo: Pause and predict. The lab printer is down and it is Friday at twenty to five. Do you wait for the sedimentation rate? Pause here.
+Maya: No. Draw sedimentation rate, C-reactive protein, and a complete blood count now, and start high-dose glucocorticoids tonight. The twenty twenty-one American College of Rheumatology and Vasculitis Foundation guideline is clear: do not wait for a biopsy to treat.
+Theo: Last week's pearl was do not transfer points until you have the seat. Today's version writes itself. Do not wait for the biopsy to turn on the steroids that protect the other eye.
+Maya: Yes. The biopsy justifies the long taper. It does not give permission for the first dose. The British Society for Rheumatology executive summary even says the first dose can be given before the labs come back if suspicion is strong, after you have drawn the blood.
+Theo: Dose?
+Maya: For G C A without visual threat, that guideline's standard initial oral dose is forty to sixty milligrams of prednisolone a day. When vision is already threatened or lost, the American College of Rheumatology conditionally recommends pulse intravenous glucocorticoids over high-dose oral therapy.
+Theo: And the biopsy itself?
+Maya: Preferably a long segment, greater than one centimeter, and when you can, within two weeks of starting oral steroids. Yield falls later, but the point of early biopsy is confirmation, not a green light to treat.
+Theo: Push-back time. Her sedimentation rate might come back normal. I was taught that a normal E S R closes this door.
+Maya: It does not. Among patients with biopsy-confirmed giant cell arteritis who were not already on steroids, about four percent had both a normal sedimentation rate and a normal C-reactive protein at diagnosis. That is the Kermani Mayo series.
+Theo: Four percent is small, but it is not zero, and this woman's story is not small.
+Maya: A twenty twenty meta-analysis of sixty-eight studies found jaw claudication had a positive likelihood ratio of four point nine zero. Absence of a sedimentation rate over forty millimeters per hour had a negative likelihood ratio of zero point one eight. Helpful. Not exculpatory.
+Theo: Two episodes ago, when we talked about M R N A vaccines, the warning was not to treat ninety-five percent efficacy as a promise that five percent of people get sick. Same discipline here. A normal sedimentation rate is not a promise this is not giant cell arteritis.
+Maya: Keep that habit. It will save you from sending her home with a follow-up card.
+Theo: Pearl: steroids first, biopsy second. Treat the second eye tonight.
+Maya: Memory hook: jaw pain plus a pale swollen disc means the other eye is already on the clock.
+# Chapter 5: Case 4, the curtain
+Maya: Last case. Fifty-five, eight diopters of myopia. Flashes in the left eye two nights ago, a shower of new floaters yesterday, and this morning a dark curtain rising from below. Visual acuity is still twenty twenty-five. No real R A P D.
+Theo: Preserved acuity and a weak pupil argue against a dense inner-retinal or optic-nerve infarct. The curtain makes me think detached retina, still sparing the fovea.
+Maya: Anterior vitreous shows tobacco dust, Shafer's sign. There is a horseshoe tear at eleven o'clock and a bullous superior rhegmatogenous detachment whose posterior edge sits just outside the arcade. Optical coherence tomography confirms the fovea is attached.
+Theo: Macula-on superior bullous detachment, new tear, myope. This is the case people underestimate because they can still read the chart.
+Maya: Mechanism once. A posterior vitreous detachment tugs on lattice and the vitreous base, opens a full-thickness tear, and lets liquefied vitreous under the retina. Photopsias are traction. New floaters may be collagen, a Weiss ring, or blood. The curtain is detached retina.
+Theo: Pause and predict. Twenty twenty-five with a curtain: how many hours do we have? Pause here.
+Maya: The sources do not settle a rigid cutoff, and you should say that out loud. Reviews of moderate- to low-quality evidence suggest that repairing a macula-on detachment within zero to twenty-four hours of presentation may yield better final acuity than waiting longer.
+Theo: And if the macula is already off?
+Maya: Those same reviews suggest repair within zero to three days of symptom onset may be better than waiting four to seven days. Superotemporal bullous macula-on cases, and any detachment already at the arcade, are treated as the most urgent because they can peel through the fovea overnight.
+Theo: Incidence, so I have a scale.
+Maya: About ten to eighteen per one hundred thousand people per year for rhegmatogenous detachment. A preferred practice pattern reports that five point four to eight percent of patients with acute posterior vitreous detachment symptoms have a tear at the first exam.
+Maya: The sources do not settle one exact tear rate, so use the clinical rule: new flashes and floaters get a same-day dilated exam with depression, not a return-if-worse handout.
+Theo: Push-back time. If she can still see twenty twenty-five, why can't retina see her in a couple of days? Operating rooms are not infinite.
+Maya: Because twenty twenty-five means the fovea is still attached, not that the problem is small. Once the fovea peels, you are arguing about how much acuity you can get back, not whether you can keep what she has.
+Theo: So I position her with the detached retina dependent, call retina the same day, and talk through pneumatic retinopexy versus vitrectomy or a buckle depending on the tear.
+Maya: Yes. Position and a same-day call are the things you control in clinic while a team is assembled.
+Theo: Pearl: flashes, floaters, curtain, and the macula tells you how many hours you have, not whether you have a problem.
+Maya: Memory hook: twenty twenty with a curtain is more urgent than twenty two hundred without one.
+# Chapter 6: Four clocks and a quiz
+Maya: Four clocks, one waiting-room story. White retina, red fovea, quiet disc: emergency department now, giant cell arteritis labs if age is over fifty, and do not stall for massage or a paracentesis.
+Theo: Swollen disc, often an altitudinal field, crowded fellow disc, morning discovery: exclude giant cell arteritis, then call it nay-on. Do not open the sheath. Fellow-eye risk was fourteen point seven percent over about five years in the trial.
+Maya: Pale chalky disc, jaw pain, new headache in someone older: steroids tonight, long-segment biopsy this week. About four percent of untreated biopsy-proven disease has a normal sedimentation rate and a normal C-reactive protein together.
+Theo: Flashes, floaters, curtain, tobacco dust: call retina. Macula-on, especially superior and near the arcade, is a same-day problem even if the chart still says twenty twenty.
+Maya: Natural history numbers worth keeping: seventeen point seven percent functional recovery after untreated C R A O in that meta-analysis of three hundred ninety-six patients. Experimental retinal tolerance, ninety-seven minutes to two hundred forty minutes in Hayreh's monkeys.
+Theo: And I O N D T: thirty-two point zero versus forty-two point six percent three-line improvement at six months, no benefit from surgery at two years.
+Maya: The sources still do not settle intravenous T P A for C R A O, and they do not settle a sharp detachment timing cutoff. Say so, then act on the clock you do have.
+Theo: Quiz time. Three questions, then pause before answers.
+Maya: Question one. A man has sudden painless count-fingers vision, a dense R A P D, a cherry-red spot, and a normal disc. What door does he use, and why?
+Theo: Question two. Why start high-dose steroids for suspected giant cell arteritis before the temporal artery biopsy comes back?
+Maya: Question three. Visual acuity is twenty twenty-five, there is a superior curtain, and optical coherence tomography shows an attached fovea. What do you tell the patient about timing?
+Theo: Take a few seconds with those three. Pause here.
+Maya: Answer one. The emergency department, because C R A O with retinal infarction is a form of acute ischemic stroke, and clinic is not the place to run that pathway.
+Theo: Answer two. Steroids protect the fellow eye now. The biopsy confirms the diagnosis and justifies the taper. About four percent of biopsy-proven disease has normal inflammatory markers, so the labs are not a veto.
+Maya: Answer three. This is a same-day call to retina. The sources suggest a possible advantage to repairing macula-on detachments within twenty-four hours, and they do not give you permission to wait because the acuity still looks good.
+Maya: That is Case Rounds on the painless vision-loss differential. Next week, if the queue holds, we leave the lane and talk about how the Federal Reserve moves markets.
