@@ -1,0 +1,147 @@
+# Cold open
+Maya: Wednesday, October twenty-eighth, two o'clock in the afternoon, Eastern. The Fed releases five short paragraphs. Rates unchanged, at three and three-quarters to four percent. The vote is ten to two.
+Theo: And the two dissenters wanted a cut, right? That's usually how these stories go.
+Maya: The opposite. Governor Lisa Cook and Cleveland Fed President Beth Hammack wanted a quarter-point hike. Two officials asking for tighter money told markets more than the decision did.
+Theo: So the headline was "no change," and the real news was in the footnote.
+Maya: That is the whole episode in one sentence. Welcome to Market Story. Today: how the Fed moves markets, from the overnight rate to the yield curve to your own portfolio.
+Theo: One line before we start. Educational only, not investment advice. We will talk about how prices move, not what anyone should buy or sell.
+Maya: Roadmap. Chapter one is the lever, what the Fed actually sets. Chapter two goes from overnight money to ten-year bonds. Chapter three is the yield curve as a recession signal.
+Theo: Chapter four is stocks and the Fed. Chapter five is your portfolio, duration and cash, in real numbers. Chapter six is the strange 2026 story and how to read the December meeting.
+Maya: Data note. Market numbers are from Friday, November thirteenth, twenty twenty-six. Policy facts are from the October meeting. The next meeting is December eighth and ninth.
+# Chapter 1: The lever
+Maya: Start with what the federal funds rate is. It is the overnight, unsecured rate at which banks lend reserve balances to each other. The F O M C does not set it by decree. It sets a target range.
+Theo: Then how does the actual rate land inside the range? Somebody has to make it happen.
+Maya: Administered rates. The Fed pays interest on reserve balances, I O R B, at three point nine percent right now. No bank lends reserves overnight for much less than it can earn just leaving them at the Fed.
+Theo: That works for banks. But money market funds can't hold reserves at the Fed. What stops them from lending cash cheaper?
+Maya: The overnight reverse repo facility. Money funds can lend to the Fed at three point seven five percent, the bottom of the range. Up to one hundred sixty billion dollars per counterparty per day.
+Theo: So that's the floor. Is there a ceiling?
+Maya: The standing repo facility, at four percent. Dealers can borrow cash against Treasuries there. And the discount window's primary credit rate is also four percent.
+Theo: Pause and predict. With a floor at three seventy-five, I O R B at three ninety, and a ceiling at four, where did the effective rate actually print last week? Pause here.
+Maya: Three point eight eight percent on November twelfth, according to the New York Fed, on about ninety-nine billion dollars of volume. Right in the pocket just under I O R B.
+Theo: Push-back time. My economics textbook said the Fed buys and sells Treasuries every morning to hit its target. Open market operations. Is the textbook just wrong?
+Maya: It's out of date. Before 2008, reserves were scarce, and nudging the quantity moved the price. Today reserves are ample. The Fed's own research note explains the demand curve is flat there, so quantity barely moves price.
+Maya: Open market operations now keep reserves ample. The administered rates do the steering. The Fed steers with prices, not quantities.
+Theo: My analogy: the Fed is a thermostat on the shortest pipe in the house. It controls overnight money almost perfectly, and everything farther away warms or cools more slowly.
+Maya: Good, and here's where it breaks. A thermostat doesn't care what the residents expect. Markets do. A fully expected decision moves almost nothing. One word that changes expectations can move everything.
+Theo: Which is why the two dissents mattered more than the hold.
+Maya: Exactly. One more myth. "The Fed prints money when it cuts." A cut changes the price of overnight money. The balance sheet is a separate lever, and in twenty twenty-six a balance sheet task force is reviewing it.
+Theo: Pearl: the Fed sets one overnight price. Everything else is expectations plus a risk premium.
+Maya: Memory hook: range, rails, read. The range is the target. I O R B and reverse repo are the rails. The market reads the statement for the path.
+Maya: Recap. The committee sets a range. Administered rates pin the effective rate inside it. Markets react to the path the statement implies. Next, how that one overnight price reaches a ten-year bond.
+# Chapter 2: From overnight to ten years
+Theo: True story time?
+Maya: September twenty twenty-four. The Fed cuts by half a point, to four and three-quarters to five percent. Lots of investors buy long Treasuries because "the Fed is cutting." On September eighteenth, the ten-year yields three point seven percent.
+Theo: And by January?
+Maya: January thirteenth, twenty twenty-five, after two more cuts, the ten-year yields four point seven nine percent. The Fed cut a full point. The ten-year rose by roughly a point.
+Theo: Pause and predict. How can the Fed cut and long rates go up? Pause here.
+Maya: Because a long yield is two pieces. First, the expected path: the average overnight rate people expect over the bond's life. Second, the term premium: extra yield for locking money up and bearing inflation and deficit risk.
+Theo: And the Fed controls the first piece but not really the second.
+Maya: It controls today's rate and shapes the expected path with its statement, press conference and dot plot. That's forward guidance. Its grip on the term premium is much weaker. In late twenty twenty-four, inflation stayed above target, growth stayed firm, and investors demanded more.
+Theo: Push-back time. Isn't "term premium" just a fudge word for "whatever we can't explain"?
+Maya: Fair criticism. It isn't directly observable. It comes out of models, and models disagree. How much of twenty twenty-six's rise in long yields is term premium versus expected policy is something the sources don't settle.
+Maya: But the split is still useful. Look at Friday's curve. Three-month bill, four point three two. Two-year, four point eight eight. Ten-year, five point one five. Thirty-year, five point four seven.
+Theo: Wait. The effective funds rate is three point eight eight, and the three-month bill is four point three two? Bills yield more than overnight money?
+Maya: That gap is the market pricing some chance of further hikes. That's the yield curve's first job: forecasting the Fed. The front end votes on the next few meetings.
+Theo: My analogy: the two-year is the weather forecast, the ten-year is the climate forecast plus an insurance premium.
+Maya: Where it breaks: you can't see the insurance premium on a price tag. You estimate it. Keep the picture, but hold it loosely.
+Theo: Myth to bust: when the Fed cuts, mortgage rates fall.
+Maya: Thirty-year mortgages price off long yields, not the funds rate. If a cut raises inflation fear, long rates and mortgage rates can rise. Late twenty twenty-four is the example.
+Theo: Callback to chapter one: the Fed sets one overnight price. This chapter's corollary: the farther out you go, the less that one price matters.
+Maya: Pearl: cutting is not the same as falling long rates. Memory hook: two-year listens to the Fed, ten-year listens to inflation.
+Maya: Recap. Long yields are expected policy plus term premium. Guidance moves the first; inflation and fiscal risk move the second. The Fed can lose the long end. Next, what happens when the curve flips upside down.
+# Chapter 3: The yield curve as a signal
+Maya: July sixth, twenty twenty-two. The ten-year Treasury yield drops below the two-year. It stays below for about twenty-six months, until early September twenty twenty-four. The longest continuous inversion of that spread on record.
+Theo: How deep did it get?
+Maya: On July third, twenty twenty-three, the ten-year yielded about one point oh eight points less than the two-year. Every recession model flashed red.
+Theo: Why should an upside-down curve predict a recession at all?
+Maya: Two channels. An inverted curve means the market expects the Fed to cut later, usually into weakness. And banks borrow short and lend long, so inversion squeezes their margins and their lending.
+Theo: How good is the track record?
+Maya: A San Francisco Fed Economic Letter by Bauer and Mertens, twenty eighteen, found a negative term spread preceded all nine U.S. recessions since nineteen fifty-five. Only one false positive, in the mid-nineteen-sixties, which brought a slowdown but no official recession.
+Theo: And the lag?
+Maya: Six to twenty-four months. Which is a big window if you're trying to time anything.
+Maya: Estrella and Mishkin, in a nineteen ninety-six New York Fed paper, turned the ten-year minus three-month spread into odds. A spread of plus zero point seven six maps to about ten percent recession odds four quarters out. Minus zero point eight two maps to fifty percent.
+Theo: Pause and predict. Friday's ten-year minus three-month spread was plus zero point eight three. Where does that land on their table? Pause here.
+Maya: Right around the ten percent line. And ten-year minus two-year was plus zero point two seven, down from plus zero point five three a year earlier. The New York Fed's own model put the twelve-month odds in the low teens, but that's a single-source number, so treat it as rough.
+Theo: Push-back time. The curve inverted for over two years, and as of now there's no N B E R recession. Isn't this signal just broken?
+Maya: The sources don't settle this. One side says pandemic savings, deficits and an investment boom absorbed the shock. The other says inversions mostly track expected Fed cuts, and in twenty twenty-two the market priced cuts that came later. It may be the second false positive in seventy years.
+Theo: So un-inversion means the coast is clear?
+Maya: No. Historically the curve often re-steepened right before or during recessions, because the Fed was cutting fast. Steepening alone is not an all-clear.
+Theo: Callback to chapter two. If the term premium is low or negative, it's easier to invert, so modern inversions might be noisier.
+Maya: That's one reasonable reading. Pearl: inversions price future cuts; they are not a countdown clock. Memory hook: invert, wait, verify. Inversion, a six-to-twenty-four month window, then confirm with jobs and credit data.
+Maya: Recap. Strong record, variable lag, one recent ambiguous case. Use the spread as a probability, not a calendar. Next, the part everyone watches on their phone at two o'clock: stocks.
+# Chapter 4: Stocks and the Fed
+Maya: Since nineteen ninety-four, the Fed has announced scheduled decisions on the same afternoon, eight scheduled meetings a year. That gave economists a natural experiment: a known minute when monetary news hits.
+Theo: So you can separate what the Fed did from what everyone already expected.
+Maya: Using fed funds futures, yes. Ben Bernanke and Kenneth Kuttner did exactly that. Their headline: a hypothetical surprise cut of twenty-five basis points was associated with about a one percent rise in broad stock indexes.
+Theo: Surprise is doing a lot of work in that sentence.
+Maya: All of it. Expected moves are already in prices. And the twist: most of the stock reaction came from changes in expected excess returns, the equity risk premium, not from changed forecasts of dividends.
+Theo: Translate.
+Maya: Fed surprises change how much compensation investors demand for holding risk. A dovish surprise makes people willing to accept less. A hawkish one makes them demand more.
+Theo: Pause and predict. Lucca and Moench at the New York Fed looked at the twenty-four hours before scheduled announcements. What do you think stocks did? Pause here.
+Maya: From nineteen ninety-four, the S and P five hundred rose on average forty-nine basis points in those twenty-four hours. That window accounted for about eighty percent of annual realized excess stock returns in their sample.
+Theo: Push-back time. If that's true, why doesn't everyone just buy the day before every Fed meeting? Sounds like free money.
+Maya: Because anomalies that get famous tend to fade. A later New York Fed update found the effect persisted only for meetings with a Chair press conference, and that's from one source. Whether it survives today, the sources don't settle. Treat it as history, not a strategy.
+Theo: What about the valuation side? Higher rates, lower stock prices?
+Maya: A stock is future cash flows discounted at a rate that includes the risk-free yield plus a risk premium. Higher real yields raise the discount rate. Firms whose profits sit far in the future, long-duration growth stocks, get hit hardest.
+Theo: The same way a thirty-year bond gets hit harder than a two-year.
+Maya: Exactly. Worked example, and the split here is hypothetical. September twenty twenty-six, the Fed hikes a quarter point. Suppose markets had priced half of it. The surprise is twelve and a half basis points.
+Maya: Bernanke and Kuttner's average would associate that with roughly a half-percent move in broad indexes, downward for a hike. The lesson is the method: subtract what was priced before you interpret a reaction.
+Theo: Myth: rate hikes are always bad for stocks.
+Maya: Expected hikes are already in prices. A hike that convinces markets inflation is under control can even shrink the term premium. The surprise and the message matter.
+Theo: Callback to chapter two: the Fed has a weak grip on the term premium, but its surprises move the equity risk premium.
+Maya: Premia, not levels, are where the action is. Pearl: react to the surprise, not the headline. Memory hook: priced, surprise, premium.
+Maya: Recap. Markets move on surprises. Most of the equity response runs through risk premia. The pre-meeting drift is real in history and unsettled now. Next, what all of this does to your own account.
+# Chapter 5: Your portfolio
+Theo: Last week's callback first. In Points Pearls, the rule was that points are only worth the best redemption, and sometimes cash beats points.
+Maya: Same logic here. A bond is worth its future cash flows at today's exchange rate between future money and present money. That exchange rate is the yield. Change it and the value changes.
+Maya: True story. The Fed went from zero to a quarter percent in mid-March twenty twenty-two to five and a quarter to five and a half by late July twenty twenty-three. Five hundred twenty-five basis points, including four seventy-five basis point hikes in twenty twenty-two.
+Theo: And people who thought bonds were the safe part found out what duration means.
+Maya: Defined once. Modified duration is the approximate percent price change for a one-point change in yield. Duration seven point seven means about seven point seven percent lost if yields rise a point.
+Theo: Give me something concrete.
+Maya: The S E C's investor bulletin. A ten-year, three percent coupon bond bought at one thousand dollars. A year later, market rates fall to two percent: the price is about one thousand eighty-two dollars. Rates rise to four percent: about nine hundred twenty-five.
+Theo: Pause and predict. Using Friday's yields, roughly how much does a thirty-year Treasury lose per thousand dollars if yields rise one point? Pause here.
+Maya: We computed it for this lesson. Two-year, duration about one point nine, falls to about nine hundred eighty-one dollars. Ten-year, duration about seven point seven, about nine hundred twenty-six. Thirty-year, duration about fourteen point seven, about eight hundred sixty-eight.
+Theo: Push-back time. I'll just hold to maturity. Then rate moves don't matter, right?
+Maya: You do get par back. But you're earning the old yield while new bonds pay more. That's a real opportunity cost, and if you need the money early, the mark-to-market loss is real too.
+Theo: So cash is the safe answer?
+Maya: Cash trades price risk for reinvestment risk. A three-month bill at four point three two resets every three months. If the Fed cuts, that income falls fast. Long bonds lock in income but swing in price.
+Theo: My analogy: a bill is a hotel night, a thirty-year bond is a thirty-year lease.
+Maya: Nice, and the limit: a lease's rent doesn't change when the market moves, but you can still sell the bond, and its price will tell you exactly how far the market moved against you.
+Maya: Worked example. Ten thousand dollars in a bond fund with duration about seven point seven. A half-point rise in yields means roughly three point eight five percent, about three hundred eighty-five dollars, before coupons. A full point, about seven hundred seventy.
+Theo: And equities have duration too.
+Maya: In spirit. Growth stocks whose value sits far in the future trade like long bonds when real yields move. Banks and insurers can respond differently because their earnings can rise with rates.
+Theo: Callback to chapter four: long-duration growth stocks were the ones hit hardest by surprises.
+Maya: Same physics. Pearl: know your duration before the Fed meets. Memory hook: duration times move equals pain. Seven point seven times one point is about seven point seven percent.
+Maya: Recap. Duration converts rate moves into price moves. Cash swaps price risk for reinvestment risk. Equity duration explains why the same Fed news hits sectors differently. Finally, twenty twenty-six.
+# Chapter 6: The 2026 story
+Maya: The cycle did something unusual. The Fed cut a quarter point in September, October and December of twenty twenty-five, landing at three and a half to three and three-quarters.
+Theo: And then this year?
+Maya: September sixteenth, twenty twenty-six, it raised rates a quarter point, to three and three-quarters to four, saying it would support a timelier return to the two percent goal. In October, with Chair Kevin Warsh, it held, with two dissents for another hike.
+Theo: Hike after cuts. What did the dot plot say?
+Maya: The September projections. Median fed funds for end of twenty twenty-six, four point one. Twenty twenty-seven, four point one. Twenty twenty-eight, three point nine. Longer run, three point two. P C E inflation for twenty twenty-six, three point seven; core, three point four.
+Theo: Pause and predict. The current range's midpoint is three point eight seven five. What does a median of four point one for year-end imply? Pause here.
+Maya: The median participant expected one more quarter-point hike by year-end. December eighth and ninth is the last meeting of the year, with fresh projections.
+Theo: Push-back time. The dots said a hike, so isn't December basically decided?
+Maya: No. The dot plot is a set of individual projections, not a promise. It changes every quarter. October's statement says more information will decide the stance. Treat the dots as a starting point.
+Theo: Give me the bull and bear case, without telling anyone what to do.
+Maya: The soft-landing read: the statement calls productivity strong and capital investment robust, the curve is positively sloped, and recession models sit near the ten percent line.
+Maya: The higher-for-longer read: inflation projected at three point seven percent is far above target, the ten-year is at five point one five, the thirty-year at five point four seven, and two officials already wanted another hike.
+Theo: So what do I actually watch on December ninth?
+Maya: Five things. The dots for twenty twenty-six and twenty twenty-seven. The vote and any dissents. The two-year's move in the minutes after the release, because that's the surprise. Whether the long end moves with the front end or against it. And balance sheet or schedule changes.
+Theo: Schedule changes?
+Maya: Warsh said that in twenty twenty-seven, one of the eight meetings will focus only on strategy, with no policy vote. In twenty twenty-eight, two of eight.
+Theo: Callback to Painless Vision Loss. Four diagnoses, four clocks.
+Maya: The Fed has clocks too. The funds rate moves overnight. The two-year moves in minutes. The ten-year moves over months. The real economy moves over quarters and years.
+Maya: Pearl: read the surprise in the two-year and the regime in the ten-year. Memory hook: dots, dissents, two-year.
+Maya: Recap. Twenty twenty-six is a hike-after-cuts year, inflation above target, curve positively sloped. December's dots, vote and two-year reaction are the signals.
+# Final recap and quiz
+Theo: Five-point recap. One: the Fed sets one overnight price with administered rates. Two: long yields are expected policy plus a term premium the Fed doesn't control.
+Maya: Three: inversions price future cuts and have a strong but imperfect recession record. Four: stocks react to surprises, mostly through risk premia. Five: duration turns rate moves into portfolio moves.
+Theo: Quiz time. Three questions. Question one: what is the floor rate for money market funds, and where is it set right now?
+Maya: Question two: in the Estrella and Mishkin model, what ten-year minus three-month spread maps to fifty percent recession odds?
+Theo: Question three: a fund with duration seven point seven, yields up one point. Roughly what percent does it lose? Pause here and answer all three.
+Maya: Answer one: the overnight reverse repo rate, at three point seven five percent, the bottom of the range. Range, rails, read.
+Theo: Answer two: minus zero point eight two. And remember, invert, wait, verify.
+Maya: Answer three: about seven point seven percent. Duration times move equals pain.
+Theo: Educational only, not investment advice. Next time the Fed speaks, look at the two-year first.
+Maya: And the footnote before the headline. See you next week.
