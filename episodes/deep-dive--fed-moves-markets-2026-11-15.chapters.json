@@ -1,0 +1,33 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "Intro"
+  },
+  {
+   "startTime": 181.0,
+   "title": "Chapter 1: The lever: what the Fed actually sets"
+  },
+  {
+   "startTime": 1525.0,
+   "title": "Chapter 2: From overnight to 10 years"
+  },
+  {
+   "startTime": 2501.0,
+   "title": "Chapter 3: The yield curve as a signal"
+  },
+  {
+   "startTime": 2867.0,
+   "title": "Chapter 4: Stocks and the Fed"
+  },
+  {
+   "startTime": 3302.0,
+   "title": "Chapter 5: Your portfolio: duration, cash, and rate sensitivity"
+  },
+  {
+   "startTime": 3574.0,
+   "title": "Chapter 6: The 2026 story and how to read December"
+  }
+ ]
+}

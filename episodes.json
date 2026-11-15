@@ -404,6 +404,99 @@
   ]
  },
  {
+  "id": "deep-dive--fed-moves-markets-2026-11-15",
+  "title": "Deep Dive \u00b7 How the Fed Moves Markets: Rates, the Yield Curve and Your Portfolio",
+  "format": "Deep Dive",
+  "topic": "How the Fed Moves Markets: Rates, the Yield Curve and Your Portfolio",
+  "date": "2026-11-15",
+  "file": "deep-dive--fed-moves-markets-2026-11-15.mp3",
+  "bytes": 34836837,
+  "mime": "audio/mpeg",
+  "seconds": 2903,
+  "summary": "This podcast and accompanying book dissect the Federal Reserve's intricate role in financial markets, moving beyond conventional wisdom to explain the mechanical reality of monetary policy transmission. It illuminates how the Fed sets the overnight rate, the distinct components of long-term yields, the yield curve's predictive power for recessions, and the nuanced impact of policy surprises on stock valuations and bond portfolios.",
+  "key_points": [
+   "The Federal Reserve operates in an \"ample reserves\" regime, setting a target range for the federal funds rate and pinning it with administered rates like IORB and ON RRP.",
+   "Long-term bond yields comprise an expected path of future short-term rates and a term premium, with the Fed having limited direct control over the latter.",
+   "Conventional wisdom is flawed: Fed rate cuts do not automatically lead to falling long-term yields; the 2024 example showed long yields can rise due to term premium or shifting expectations.",
+   "An inverted yield curve is a powerful historical predictor of US recessions, signaling expected future Fed cuts and physically constricting bank lending.",
+   "Stock market reactions to Fed policy are primarily driven by *unanticipated* changes, affecting different sectors via valuation, risk premium, cash flow, and dollar strength channels.",
+   "Modified duration quantifies a bond's price sensitivity to interest rate changes; holding long-duration bonds exposes portfolios to significant price risk during rate hikes.",
+   "The Fed's quarterly dot plot is a snapshot of individual participants' projections, not a binding promise, and is subject to change based on evolving economic data.",
+   "Active investors should focus on the gap between market expectations and the Fed's actual decisions, and understand their portfolio's duration, to navigate rate changes effectively."
+  ],
+  "pearls": [
+   "The Fed sets one overnight price; every other asset price in the world is simply expectations plus a risk premium.",
+   "\"Cutting\" is not synonymous with \"falling long rates\"; the farther out the maturity spectrum you go, the less that one overnight price matters, and the more macroeconomic fear takes over.",
+   "React to the surprise, not the headline; only the unanticipated component of monetary policy moves equities, primarily through changes in the equity risk premium.",
+   "Know your exact duration before the Fed ever steps up to the microphone, as it mathematically converts interest rate moves into immediate portfolio price changes.",
+   "Yield curve inversions price future Fed cuts and are a robust signal of upcoming economic weakness, but they are not a precise countdown clock to recession."
+  ],
+  "quiz": [
+   {
+    "q": "Why can't the Fed steer the funds rate with daily open market operations when reserves are ample?",
+    "a": "Because the reserve demand curve is completely flat, so changing the quantity of reserves no longer changes the price; the Fed must use administered rates to pin it down."
+   },
+   {
+    "q": "What did Bernanke and Kuttner find for a 25-basis-point surprise cut?",
+    "a": "A hypothetical unanticipated 25-basis-point cut was associated with about a one percent rise in broad stock indexes."
+   },
+   {
+    "q": "What is the approximate price change of a 30-year bond with duration 14.7 for a one-point yield rise?",
+    "a": "A brutal loss of about 14.7% of your principal."
+   }
+  ],
+  "sources": [
+   {
+    "title": "Federal Reserve, FOMC statement, October 28, 2026",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+   },
+   {
+    "title": "Federal Reserve, Implementation Note, October 28, 2026",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a1.htm"
+   },
+   {
+    "title": "Federal Reserve, Open Market Operations (target-range history)",
+    "url": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
+   },
+   {
+    "title": "Federal Reserve, Summary of Economic Projections, September 16, 2026",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm"
+   },
+   {
+    "title": "FEDS Notes, \"Implementing Monetary Policy in an Ample-Reserves Regime: The Basics\" (2020)",
+    "url": "https://www.federalreserve.gov/econres/notes/feds-notes/implementing-monetary-policy-in-an-ample-reserves-regime-the-basics-note-1-of-3-20200701.html"
+   },
+   {
+    "title": "Bernanke and Kuttner, \"What Explains the Stock Market's Reaction to Federal Reserve Policy?\" FEDS 2004-16",
+    "url": "https://www.federalreserve.gov/pubs/feds/2004/200416/200416pap.pdf"
+   },
+   {
+    "title": "Lucca and Moench, \"The Pre-FOMC Announcement Drift,\" NY Fed Staff Report 512",
+    "url": "https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr512.pdf"
+   },
+   {
+    "title": "Bauer and Mertens, \"Economic Forecasts with the Yield Curve,\" FRBSF Economic Letter (2018)",
+    "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2018/03/economic-forecasts-with-yield-curve/"
+   },
+   {
+    "title": "Estrella and Mishkin, \"The Yield Curve as a Predictor of U.S. Recessions,\" NY Fed Current Issues 2(7), 1996",
+    "url": "https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci2-7.pdf"
+   },
+   {
+    "title": "SEC Investor Bulletin, \"Interest Rate Risk\"",
+    "url": "https://www.investor.gov/sites/default/files/ib_interestraterisk.pdf"
+   },
+   {
+    "title": "U.S. Treasury, Daily Par Yield Curve Rates (November 2026)",
+    "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202611"
+   },
+   {
+    "title": "New York Fed, Effective Federal Funds Rate",
+    "url": "https://www.newyorkfed.org/markets/reference-rates/effr"
+   }
+  ]
+ },
+ {
   "id": "market-story--fed-moves-markets-2026-11-15",
   "title": "Market Story \u00b7 How the Fed Moves Markets: Rates, the Yield Curve and Your Portfolio",
   "format": "Market Story",
